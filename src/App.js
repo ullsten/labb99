@@ -18,7 +18,6 @@ function App() {
         >
           Learn React
         </a>
- <h3>Testing by Oskar Ullsten</h3>
       </header>
     </div>
   );
